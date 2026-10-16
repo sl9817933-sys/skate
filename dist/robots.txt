@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://skate.letprocurement.com/sitemap.xml
